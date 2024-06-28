@@ -3,6 +3,7 @@
 
 ## Учасники команди
 
+- [Dima Chepikov(Team Lead)](https://github.com/dimachep1408)
 - [Renat Belei](https://github.com/username_renat)  
 - [Mihail Barilo](https://github.com/Mbarilo)
 
